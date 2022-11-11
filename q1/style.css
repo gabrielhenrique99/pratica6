@@ -1,0 +1,10 @@
+body {
+    background: rgba(20, 34, 36, 0.533);
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
